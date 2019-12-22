@@ -1,6 +1,6 @@
 --[[
     Usage: 
-    local Notify = loadstring(game:HttpGet("https://github.com/ShowerHeadDev/util/new/master", true))()
+    local Notify = loadstring(game:HttpGet("https://raw.githubusercontent.com/ShowerHeadDev/util/master/notify.lua", true))()
     Notify:Create(string Text, int TextSize, int Duration)
 ]]
 
